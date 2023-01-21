@@ -1,0 +1,9 @@
+.containerr {
+  max-width: 1060px;
+}
+
+@media screen and (max-width: 640px) {
+  .containerr {
+    max-width: 240px;
+  }
+}
